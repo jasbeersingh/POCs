@@ -1,1 +1,3 @@
 venv/*
+locust/venv/*
+*.pyc
